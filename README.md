@@ -2,8 +2,12 @@
 
 ![fume-away](r.gif)
 
-This is a printable soldering fume absorber / extractor. Not for the faint of heart! Some of the pieces take over 5 hours on a Prusa i3 MK2 and mostly fill up the bed (250 x 210 x 200 mm).
+These printable parts are part of a soldering fume absorber / extractor. 
 
-***Print requiring support***: `filter - cover.stl` (the slot for the cartridge has an overhang when printed face down).
+Warning: This isn't an easy print! 
 
-That said, 0.2mm layer height, a decent amount of filament.
+The shell pieces can take over 5-8 hours (each) on a Prusa i3 MK2 and mostly fill up the bed (250 x 210 x 200 mm). Please be sure that you're committed before pressing print.
+
+***Print requiring support***: `filter - cover.stl` (the slot for the cartridge has an overhang when printed face down). The case `filter - case.stl` works best with support if possible, but you can also go without (like I did, on accident).
+
+That said, general settings work well: 0.2mm layer height and a decent amount of filament of your choice.
