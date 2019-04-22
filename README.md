@@ -2,7 +2,7 @@
 
 ![fume-away](r.gif)
 
-These printable parts are part of a soldering fume absorber / extractor. 
+These printable parts are part of a soldering fume absorber / extractor. There is a post about this build [here](https://open.konspyre.org/post/2018-08-17-solder_smoke_absorber/).
 
 Warning: This isn't an easy print! 
 
